@@ -3,7 +3,8 @@ Final project of the course Natural Language Understanding A.Y. 2021/2022. The a
 
 ## Code
 The code can be found [here](./Guidolin_Davide_232224.ipynb) or you can open it directly on Google Colab:
-<a target="_blank" href="https://colab.research.google.com/github/Davide-Guidolin/Language_modeling_NLU_project/blob/main/Guidolin_Davide_232224.ipynb">
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davide-Guidolin/Language_modeling_NLU_project/blob/main/Guidolin_Davide_232224.ipynb)
 
 ## Report
 The report containing a description of the work done and the obtained results can be found [here](./Report.pdf).
